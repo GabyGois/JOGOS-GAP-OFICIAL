@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f0;
+    background-color: #ff2bd1
     padding: 20px;
 }
 
@@ -60,7 +60,7 @@ section h2 {
 .jogo {
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #d61010;
+    border: 1px solid #000000;
     border-radius: 5px;
 }
 

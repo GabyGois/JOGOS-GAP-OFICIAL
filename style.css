@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #f530e470;
-    padding: 20px 0;
+    padding: 20px ;
 }
 
 header {
@@ -46,7 +46,7 @@ nav ul li a:hover {
 }
 
 section {
-    margin-bottom: 30px;
+    margin-bottom: 34px;
     padding: 20px;
     background-color: #f530e470;
     border-radius: 5px;

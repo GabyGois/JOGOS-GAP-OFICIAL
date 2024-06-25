@@ -1,8 +1,7 @@
 /* Reset de estilos básico para garantir consistência entre navegadores */
 * {
-    margin: 0;
-    padding: 0;
-    background-color: #afd310
+    margin: 3;
+    padding: 3;
     box-sizing: border-box;
 }
 

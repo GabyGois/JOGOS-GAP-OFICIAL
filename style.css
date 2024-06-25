@@ -17,7 +17,7 @@ header {
     background-color: #000000;
     color: #fff;
     padding: 10px 0;
-    text-align: center;
+    text-align: left;
 }
 
 header h1 {
@@ -46,7 +46,7 @@ nav ul li a:hover {
 }
 
 section {
-    margin-bottom: 34px;
+    margin-bottom: 29px;
     padding: 20px;
     background-color: #f530e470;
     border-radius: 5px;

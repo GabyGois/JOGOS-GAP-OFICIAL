@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ff2bd1;
+    background-color: #000000;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -60,7 +60,7 @@ section h2 {
 .jogo {
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     border-radius: 5px;
 }
 
